@@ -1,0 +1,38 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+
+{
+    background-color: rgb(43, 43, 43);
+}
+.website
+{
+    width: 1600px;
+    height: 975px;
+    margin: 0 auto;
+    header
+    {
+        width: 1600px;
+        height: 90px;
+        background-color: red;
+        h1
+          {
+            line-height: 90px;
+          }
+          .bolimalar
+          {
+            width: auto;
+            height: auto;
+            p
+            {
+                float: left;
+                margin: 6px;
+            }
+          }
+        }
+    }
+}

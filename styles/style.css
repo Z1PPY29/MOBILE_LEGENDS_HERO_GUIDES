@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(43, 43, 43);
+}
+
+.website {
+  width: 1600px;
+  height: 975px;
+  margin: 0 auto;
+}
+.website header {
+  width: 1600px;
+  height: 90px;
+  background-color: red;
+}
+.website header h1 {
+  line-height: 90px;
+}
+.website header .bolimlar {
+  width: -moz-max-content;
+  width: max-content;
+  height: auto;
+  margin-left: 800px;
+  margin-top: -49px;
+}
+.website header .bolimlar p {
+  float: left;
+}/*# sourceMappingURL=style.css.map */
